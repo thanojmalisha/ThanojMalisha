@@ -1,10 +1,4 @@
-<div style="text-align: center;">
-  <img
-    src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"
-    height="150"
-    alt="Autoplay GIF"
-  />
-</div>
+<div align="center"> <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Autoplay GIF" /> </div>
 
 ###
 
