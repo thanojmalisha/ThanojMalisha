@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im a Computer Network Undergraduate With Strong Interest In Network Security 🔐 , cloud computing and Networking. I Enjoy Building Systems 💻 to Continuosly Improve My Technical Skills ⚙️. Im Currentl'y Working On My Basic Knowledge in Coding And Networking Concepts while exploring Cloud Computing and Network Security.
+Im a Computer Network Undergraduate With Strong Interest In Network Security 🔐 , cloud computing and Networking. I Enjoy Building Systems 💻 to Continuosly Improve My Technical Skills ⚙️. Im Currently' Working On My Basic Knowledge in Coding And Networking Concepts while exploring Cloud Computing and Network Security.
 
 
 ## 🌐 Socials:
