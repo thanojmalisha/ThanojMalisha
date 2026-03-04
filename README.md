@@ -1,6 +1,6 @@
 # 💫 About Me:
 Im a Computer Network Undergraduate With Strong Interest In Network Security 🔐 , cloud computing and Networking. I Enjoy Building Systems 💻 to Continuosly Improve My Technical Skills ⚙️. Im Currently Working On My Basic Knowledge in Bash scripting
-And Networking Concepts While exploring Cloud Computing and Network Security.
+And Networking Concepts While Exploring Cloud Computing and Network Security.
 
 
 ## 🌐 Socials:
