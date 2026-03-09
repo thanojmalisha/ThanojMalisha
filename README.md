@@ -6,7 +6,7 @@
 
 <h3 align="center">Computer Networks Undergraduate | Aspiring Cybersecurity & Cloud Computing Professional | Networking Enthusiast</h3>
 
-###
+---
 
 <div align="center">
   <a href="https://www.linkedin.com/in/thanoj-malisha-346116366/" target="_blank">
@@ -26,7 +26,7 @@
   </a>
 </div>
 
-###
+---
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=thanojmalisha.thanojmalisha&"  />
@@ -36,15 +36,15 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
+---
 
 <p align="center">I'm Thanoj Malisha, a Computer Networks undergraduate with a strong interest in Cybersecurity, Cloud Computing, and Network Infrastructure.<br><br>🔭 I’m working on developing my skills in network engineering, and security fundamentals<br>📚 I'm currently learning network security, cloud platforms, and modern networking technologies<br>⚡ In my free time I explore emerging technologies, build technical knowledge, and practice Music</p>
 
-###
+---
 
 <h3 align="left">🛠 Language and tools</h3>
 
-###
+---
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -62,20 +62,20 @@
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
 </div>
 
-###
+---
 
 <h3 align="left">🔥   My Stats :</h3>
 
-###
+---
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=thanojmalisha&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
+---
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/thanojmalisha/thanojmalisha/output/snake.svg" alt="Snake animation" />
 
-###
+---
