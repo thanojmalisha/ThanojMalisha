@@ -4,6 +4,10 @@
 
 ###
 
+<h3 align="center">Computer Networks Undergraduate | Aspiring Cybersecurity & Cloud Computing Professional | Networking Enthusiast</h3>
+
+###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/thanoj-malisha-346116366/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -30,15 +34,11 @@
 
 ###
 
-<h3 align="center">Computer Networks Undergraduate | Aspiring Cybersecurity & Cloud Computing Professional | Networking Enthusiast</h3>
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm Thanoj Malisha, a Computer Networks undergraduate with a strong interest in Cybersecurity, Cloud Computing, and Network Infrastructure.<br><br>🔭 I’m working on developing my skills in network engineering, system administration, and security fundamentals<br><br>📚 I'm currently learning network security, cloud platforms, and modern networking technologies<br><br>⚡ In my free time I explore emerging technologies, build technical knowledge, and practice Music</p>
+<p align="center">I'm Thanoj Malisha, a Computer Networks undergraduate with a strong interest in Cybersecurity, Cloud Computing, and Network Infrastructure.<br><br>🔭 I’m working on developing my skills in network engineering, and security fundamentals<br>📚 I'm currently learning network security, cloud platforms, and modern networking technologies<br>⚡ In my free time I explore emerging technologies, build technical knowledge, and practice Music</p>
 
 ###
 
@@ -73,6 +73,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/thanojmalisha/thanojmalisha/output/snake.svg" alt="Snake animation" />
 
