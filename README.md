@@ -38,7 +38,7 @@
 
 ---
 
-<p align="center">I'm Thanoj Malisha, a Computer Networks Undergraduate With a Strong Interest in Cybersecurity, Cloud Computing, and Network Infrastructure.<br><br>🔭 I’m Working on Developin My Skills in network engineering, and security fundamentals<br>📚 I'm currently learning network security, Cloud platforms, and modern networking Technologies<br>⚡ In My free time I Explore Emerging technologies, Build technical knowledge, and Practice Music</p>
+<p align="center">I'm Thanoj Malisha, a Computer Networks Undergraduate With a Strong Interest in Cybersecurity, Cloud Computing, and Network Infrastructure.<br><br>🔭 I’m Working on Developin My Skills in network engineering, and security fundamentals<br>📚 I'm currently learning network security, Cloud platforms, and modern networking Technologies<br>⚡ In My Free time I Explore Emerging technologies, Build technical knowledge, and Practice Music</p>
 
 ---
 
