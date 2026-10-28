@@ -4,7 +4,7 @@
 
 ---
 
-<h3 align="center">Computer Networks Undergraduate | Aspiring Cybersecurity & Cloud Computing Professional | Networking Enthusiast</h3>
+<h3 align="center">Computer Networks UNdergraduate | Aspiring Cybersecurity & Cloud Computing Professional | Networking Enthusiast</h3>
 
 ---
 
